@@ -1,4 +1,4 @@
-![HOME PAGE](https://github.com/user-attachments/assets/51431ea7-c5ad-4b64-b233-de73c6aa5528)# BOOKKEEPING Web Application
+# BOOKKEEPING Web Application
 
 **BOOKKEEPING** is a web application designed to efficiently record and manage customer credit balances. The goal of this project is to streamline the process of settling customer debts compared to traditional methods. This web-based solution enables quick and easy customer searches and settlement, while also providing monthly credit summaries in a graphical format.
 
