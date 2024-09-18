@@ -44,4 +44,4 @@ This project was developed as a minor project by:
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-repo/BOOKKEEPING.git
+   git clone https://github.com/rajaramsharma/BOOK-KEEPING.git
