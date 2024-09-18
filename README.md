@@ -1,4 +1,4 @@
-# BOOKKEEPING Web Application
+![HOME PAGE](https://github.com/user-attachments/assets/51431ea7-c5ad-4b64-b233-de73c6aa5528)# BOOKKEEPING Web Application
 
 **BOOKKEEPING** is a web application designed to efficiently record and manage customer credit balances. The goal of this project is to streamline the process of settling customer debts compared to traditional methods. This web-based solution enables quick and easy customer searches and settlement, while also providing monthly credit summaries in a graphical format.
 
@@ -47,6 +47,18 @@ This project was developed as a minor project by:
    git clone https://github.com/rajaramsharma/BOOK-KEEPING.git
 
    SCREENSHOT
-  https://github.com/rajaramsharma/BOOK-KEEPING/issues/1#issue-2533618840
-  
+  LOGIN PAGE 
+  ![login](https://github.com/user-attachments/assets/69b080a7-3580-468c-ba57-ac358249dccc)
+  HOME PAGE
+  ![HOME PAGE](https://github.com/user-attachments/assets/3f3f501b-a4a9-4c11-b103-d9985d06e242)
+ ADD CUSTOMER
+ ![ADD CUSTOMER](https://github.com/user-attachments/assets/dae7d4ca-aac5-4b47-a1e0-9f6e8ca22d40)
+CUSTOMER DETAILS
+![CUSTOMER](https://github.com/user-attachments/assets/ff769f30-1665-46f3-a292-c2f85497dd24)
+MOTHLY GRAPH
+![MONTHLY FRAPH](https://github.com/user-attachments/assets/16074afa-0b44-472f-bccf-3c03c3541c4c)
+SEARCH CUSTOMER PAGE 
+![SEARCH](https://github.com/user-attachments/assets/4f46ef44-17ab-4964-9aee-0e46743b1d63)
+AFTER SEARCH 
+![ADD CC](https://github.com/user-attachments/assets/d52c0ef2-1399-4cda-8260-c11ea094c83e)
 
