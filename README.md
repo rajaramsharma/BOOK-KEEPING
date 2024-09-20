@@ -37,7 +37,7 @@ This project was developed as a minor project by:
 
 - **Rajaram Sharma**
 - **Archana Kumari Sah**
-- **Dharmendra Kumar Mandal**
+- **Dharmendra  Mandal**
 - **Dev Narayan Sah**
 
 ## Installation Instructions
